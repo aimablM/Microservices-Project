@@ -1,7 +1,7 @@
 // API URL - Update this to match your auth service
 const AUTH_API_URL = '/api/auth';
 
-// DOM Elements
+// DOM Elements ya
 const registerForm = document.getElementById('register-form');
 const loginForm = document.getElementById('login-form');
 const registerContainer = document.getElementById('register-container');
